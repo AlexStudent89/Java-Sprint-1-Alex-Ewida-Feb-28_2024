@@ -1,1 +1,1 @@
-This is a project about making a library Management system that manages book, authors, and patrons.![image](https://github.com/AlexStudent89/Java-Sprint-1-Alex-Ewida-Feb-28_2024/assets/138694949/1f9e2f53-b11d-4def-8b0c-558b1d047648)
+This is a project about making a library Management system that manages book, authors, and patrons.

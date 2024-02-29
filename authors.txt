@@ -1,0 +1,10 @@
+Terry Brooks,Jan_1, 1952
+Piers Anthony,Feb_2, 1934
+J.R.R. Tolkien,Mar_3, 1892
+Chris A. Jackson,Apr_4, 1968
+Mercedes Lackey,May_5, 1950
+Andre Norton,Jun_6, 1912
+Junpei Inuzuka,Jul_7, 1988
+M.L. Spencer,Aug_8, 1974
+Roald Dahl,Sep_9, 1916
+Philip Pullman,Oct_10, 1946

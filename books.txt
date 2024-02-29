@@ -1,0 +1,10 @@
+Magic Kingdom for Sale/Sold,Terry Brooks,123456789,PublisherA,5,AVAILABLE
+A Spell for Chameleon,Piers Anthony,234567890,PublisherB,3,AVAILABLE
+The Hobbit,J.R.R. Tolkien,345678901,PublisherC,8,AVAILABLE
+Pirate's Prophecy,Chris A. Jackson,456789012,PublisherD,2,AVAILABLE
+The Phoenix Unchained,Mercedes Lackey,567890123,PublisherE,6,AVAILABLE
+Quag Keep,Andre Norton,678901234,PublisherF,4,AVAILABLE
+Restaurant to Another World,Junpei Inuzuka,789012345,PublisherG,7,AVAILABLE
+Dragon Mage,M.L. Spencer,890123456,PublisherH,1,AVAILABLE
+The BFG,Roald Dahl,901234567,PublisherI,3,AVAILABLE
+The Golden Compass,Philip Pullman,012345678,PublisherJ,5,AVAILABLE
